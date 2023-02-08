@@ -14,7 +14,11 @@ work. I am drawn to programming because of the constant problem solving and the 
     <img src="https://skillicons.dev/icons?i=laravel" width="20" height="20" alt="Laravel">
     <span>Laravel</span>
   </li>
-      <li>
+    <li>
+    <img src="https://skillicons.dev/icons?i=vue" width="20" height="20" alt="Laravel">
+    <span>Vue</span>
+  </li>
+   <li>
     <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="PHP">
     <span>JavaScript</span>
   </li>
