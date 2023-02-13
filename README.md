@@ -50,5 +50,6 @@ work. I am drawn to programming because of the constant problem solving and the 
 
 ## My projects
 
+[<img width="350px" src="https://github.com/nkuprevics/Screenshots/blob/main/image.jpg">](https://github.com/nkuprevics/Screenshots/blob/main/PHP-Crypto-Trading-Platform.jpg)
+
 [<img width="350px" src="https://github.com/nkuprevics/Screenshots/blob/main/PHP-Crypto-Trading-Platform.jpg">](https://github.com/nkuprevics/PHP-Crypto-Trading-Platform)
- 
